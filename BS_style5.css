@@ -1,0 +1,17 @@
+.font1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.grey{
+    background-color: rgb(214, 214, 214);
+}
+
+.btn{
+    width: 100px;
+}
+
+.send{
+    position: relative;
+    margin-left: 10px;
+}
